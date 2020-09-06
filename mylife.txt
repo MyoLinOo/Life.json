@@ -1,4 +1,4 @@
-[{
+{"articles":[{
 "male":true,
 "name":"Myo Lin Oo",'
 "age":25,
@@ -9,3 +9,4 @@
 "age":20,
 "city":"Sagaing"
 }]
+}
